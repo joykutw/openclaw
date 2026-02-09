@@ -1,0 +1,8 @@
+{
+  "name": "openclaw",
+  "compatibility_date": "2026-02-09",
+  "main": "dist/index.js", // 這是關鍵：指向編譯後的進入點
+  "observability": {
+    "enabled": true
+  }
+}
